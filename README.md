@@ -8,6 +8,7 @@
 [![LinkedIn_Badge](https://img.shields.io/badge/LinkedIn-Nusrat_Jannat-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nusrat-jannat-0b86a7248/)
 [![Mail Badge](https://img.shields.io/badge/-Nusrat_Jannat-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](nusratjannat2001@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Nusrat_Jannat-c0392b?style=flat&labelColor=c0392b&logo=facebook&logoColor=white)](www.facebook.com/nusratjannat.easha.7)
+https://codeforces.com/profile/jannat2001
 
 #### Top Technologies
 
