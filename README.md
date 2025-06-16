@@ -1,7 +1,7 @@
 # 👋 I'm Nusrat Jannat
 ### Currently Reads in Department of Computer Scinece and Engineering, University of Rajshahi
 
-- 🧬 I am currently conducting research in the field of Bioinformatics, focusing on in silico drug design
+- 🧬 I am currently conducting research in the field of Bioinformatics, focusing on in silico approach of drug design
 
 :mailbox: Reach me out!
  
