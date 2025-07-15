@@ -26,3 +26,9 @@
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nusratjannat-2001"/>
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusratjannat-2001&layout=compact"/>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=nusratjannat-2001&color=blue">
+    <img  src="https://img.shields.io/github/followers/nusratjannat-2001?label=Follow" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/github/stars/nusratjannat-2001?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge"/>
+</p>
