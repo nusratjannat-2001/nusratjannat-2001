@@ -1,5 +1,5 @@
 # 👋 I'm Nusrat Jannat
-### Graduates from the Department of Computer Science and Engineering, University of Rajshahi
+### Graduate from the Department of Computer Science and Engineering, University of Rajshahi
 
 - 🧬 I am currently conducting research in the field of Bioinformatics, focusing on in silico approach of drug design
 
